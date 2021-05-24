@@ -12,3 +12,8 @@ There are many ways to strengthen the mind, and for me these are the *three meth
 
 I will finish with this wisdom he said Dweck:
 > asserts that adopting a growth mindset can help us succeed more and be happier -- both at work and in our lives.
+
+*My Name Is Salah Taha, From Jordan I was 24 I studied  hotel management at hashimate university and graduated in 2019.*
+
+* phone number: 0772883918
+
