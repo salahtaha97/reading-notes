@@ -3,8 +3,8 @@
 ## Table of Contents
 | no. | class  |   
 |---|---|
-| 1|[class01]()   |   
-| 2  | [class02]()  |   
+| 1|[class01](https://salahtaha97.github.io/reading-notes/class-01)   |   
+| 2  | [class02](https://salahtaha97.github.io/reading-notes/class-02)  |   
 |3   |  [class03]() |
 |4   |  [class04]() |
 | 5  |[class05]()   |   
