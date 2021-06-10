@@ -5,9 +5,9 @@
 |---|---|
 | 1|[class01](https://salahtaha97.github.io/reading-notes/class-01)   |   
 | 2  | [class02](https://salahtaha97.github.io/reading-notes/class-02)  |   
-|3   |  [class03]() |
-|4   |  [class04]() |
-| 5  |[class05]()   |   
+|3   |  [class03](https://salahtaha97.github.io/reading-notes/class-03) |
+|4   |  [class04](https://salahtaha97.github.io/reading-notes/class-04) |
+| 5  |[class05](https://salahtaha97.github.io/reading-notes/class-05)   |   
 | 6  | [class06]()  |   
 |7  |  [class07]() |
 |8  |  [class08]() |
