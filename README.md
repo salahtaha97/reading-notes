@@ -9,7 +9,7 @@
 |4   |  [class04](https://salahtaha97.github.io/reading-notes/class-04) |
 | 5  |[class05](https://salahtaha97.github.io/reading-notes/class-05)   |   
 | 6  | [class06](https://salahtaha97.github.io/reading-notes/class-06)  |   
-|7  |  [class07]() |
+|7  |  [class07](https://salahtaha97.github.io/reading-notes/class-07) |
 |8  |  [class08]() |
 | 9  |[class09]()   |   
 | 10  | [class10]()  |   
