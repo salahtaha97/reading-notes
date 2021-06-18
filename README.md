@@ -11,9 +11,9 @@
 | 6  | [class06](https://salahtaha97.github.io/reading-notes/class-06)  |   
 |7  |  [class07](https://salahtaha97.github.io/reading-notes/class-07) |
 |8  |  [class08](https://salahtaha97.github.io/reading-notes/class-08) |
-| 9  |[class09](salahtaha97.github.io/reading-notes/class-09)   |   
-| 10  | [class10](salahtaha97.github.io/reading-notes/class-10)  |   
-|11  |  [class11]() |
+| 9  |[class09](salahtaha97.github.io/reading-notes/class9)   |   
+| 10  | [class10](salahtaha97.github.io/reading-notes/class10)  |   
+|11  |  [class11](salahtaha97.github.io/reading-notes/class11) |
 |12  |  [class12]() |
 | 13  |[class13]()   |   
 | 14  | [class14]()  |   
