@@ -15,7 +15,7 @@
 | 10  | [class10](salahtaha97.github.io/reading-notes/class10)  |   
 |11  |  [class11](salahtaha97.github.io/reading-notes/class11) |
 |12  |  [class12](salahtaha97.github.io/reading-notes/class12) |
-| 13  |[class13]()   |   
+| 13  |[class13](salahtaha97.github.io/reading-notes/class13)   |   
 | 14  | [class14]()  |   
 |15  |  [class15]() |
 
